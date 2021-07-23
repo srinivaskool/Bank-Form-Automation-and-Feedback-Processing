@@ -1,0 +1,9 @@
+<?php
+
+$num_date = date("dm"."20"."y");
+echo $num_date;
+$array = str_split($num_date);
+echo "<br>";
+echo $array[0];
+
+?>

@@ -1,0 +1,8 @@
+Select Branch :  
+<select>  
+  <option value="Select">Select</option>  
+  <option value="Model Colony">Model Colony</option>  
+  <option value="Shivaji Nagar">Shivaji Nagar</option>  
+  <option value="Mundhwa">Mundhwa</option>  
+  <option value="Kharadi">Kharadi</option>   
+</select>
